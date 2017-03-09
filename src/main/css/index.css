@@ -4,4 +4,88 @@
     content: "⧉";
 }
 
+.u-icon-delta:before {
+    content: "Δ";
+}
 
+.u-icon-lambda:before {
+    content: "Λ";
+}
+
+.u-icon-lsaquo:before {
+    content: "‹";
+}
+
+.u-icon-rsaquo:before {
+    content: "›";
+}
+
+.u-icon-angmsd:before {
+    content: "∡";
+}
+
+.u-icon-angmsd:before {
+    content: "∡";
+}
+
+.u-icon-wedge:before {
+    content: "∧";
+}
+
+.u-icon-zscr:before {
+    content: "𝓏";
+}
+
+.u-icon-gesles:before {
+    content: "⪔";
+}
+
+.u-icon-gesles:before {
+    content: "⪔";
+}
+
+.u-icon-elsdot:before {
+    content: "⪗";
+}
+
+.u-icon-lbrke:before {
+    content: "⦋";
+}
+
+.u-icon-rbrke:after {
+    content: "⦌";
+}
+
+.u-icon-lbbrk:before {
+    content: "❲";
+}
+
+.u-icon-rbbrk:after {
+    content: "❳";
+}
+
+
+.u-icon-lang:before {
+    content: "⟨";
+}
+
+.u-icon-rang:after {
+    content: "⟩";
+}
+
+.u-icon-lang2:before {
+    content: "⟪";
+}
+
+.u-icon-rang2:after {
+    content: "⟫";
+}
+
+
+.u-icon-vertical-separator:before {
+    content: "❘";
+}
+
+.u-icon-exists:before {
+    content: "∃";
+}
