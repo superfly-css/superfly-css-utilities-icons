@@ -1,6 +1,6 @@
 {
   "name": "superfly-css-utilities-icons",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Icon utilities",
   "main": "src/main/css/index.css",
   "scripts": {

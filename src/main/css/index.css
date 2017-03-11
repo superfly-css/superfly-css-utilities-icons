@@ -1,5 +1,41 @@
 /*! superfly-css-utilities-icons | MIT License | https://github.com/superfly-css/superfly-css-utilities-icons/blob/master/LICENSE.md */
 
+.u-icon-olt {
+    content: "⧀";
+}
+
+.u-icon-ogt {
+    content: "⧁";
+}
+
+.u-icon-blk12 {
+    content: "▒";
+}
+
+.u-icon-blk14 {
+    content: "░";
+}
+
+.u-icon-subset {
+    content: "⋐";
+}
+
+.u-icon-supset {
+    content: "⋑";
+}
+
+.u-icon-cap {
+    content: "⋒";
+}
+
+.u-icon-cap {
+    content: "⋓";
+}
+
+.u-icon-blk34 {
+    content: "▓";
+}
+
 .u-icon-box-on-box:before {
     content: "⧉";
 }
